@@ -15,7 +15,7 @@ Website built with Bootstrap.
 
 ## Built with 
 
-[Bootstrap] (https://www.w3schools.com/bootstrap/) [HTML5](https://www.w3schools.com/html/) / [CSS3](https://www.w3schools.com/css/)
+[Bootstrap](https://www.w3schools.com/bootstrap/) / [HTML5](https://www.w3schools.com/html/) / [CSS3](https://www.w3schools.com/css/)
   
 
 Project Link: https://github.com/sergienkoanna777/Photographer-site
